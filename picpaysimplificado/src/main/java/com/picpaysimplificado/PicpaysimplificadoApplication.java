@@ -11,11 +11,6 @@ public class PicpaysimplificadoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PicpaysimplificadoApplication.class, args);
 		
-		Scanner sc = new Scanner("Hello word!");
-		
-		
-		
-		
+			
 	}
-
 }

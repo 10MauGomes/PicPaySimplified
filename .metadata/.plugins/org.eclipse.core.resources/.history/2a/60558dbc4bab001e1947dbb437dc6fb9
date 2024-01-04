@@ -1,0 +1,9 @@
+package com.picpaysimplificado.domain;
+
+import org.antlr.v4.runtime.CommonToken;
+
+public class userType {
+
+	COMMON,
+	MANCHANT;
+}
